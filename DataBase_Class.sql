@@ -2346,3 +2346,4 @@ ALTER TABLE `The_Dream_Company`
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+information_schemainformation_schemastusafe_mainstusafe_mainperformance_schemaperformance_schema
